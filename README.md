@@ -6,7 +6,7 @@
  https://mihdaniel.github.io/ProjetoNicolas/
 
  ## Páginas disponíveis
- - [Carta 02] (carta02.html)
+ - [carta 02] (carta02.html)
  - [Carta 03] (carta03.html)
  - [Carta 04] (carta04.html)
  - [Carta 05] (carta05.html)
