@@ -6,13 +6,14 @@
  https://mihdaniel.github.io/ProjetoNicolas/
 
  ## Páginas disponíveis
- - [Carta 02] (carta02.html)
- - [Carta 03] (carta03.html)
- - [Carta 04] (carta04.html)
- - [Carta 05] (carta05.html)
- - [Carta 06] (carta06.html)
- - [Carta 07] (carta07.html)
- - [Carta 08] (carta08.html)
- - [Carta 09] (carta09.html)
- - [Carta 10] (carta10.html)
+ - [Carta 01](carta01.html)
+ - [Carta 02](carta02.html)
+ - [Carta 03](carta03.html)
+ - [Carta 04](carta04.html)
+ - [Carta 05](carta05.html)
+ - [Carta 06](carta06.html)
+ - [Carta 07](carta07.html)
+ - [Carta 08](carta08.html)
+ - [Carta 09](carta09.html)
+ - [Carta 10](carta10.html)
  
